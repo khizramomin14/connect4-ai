@@ -85,6 +85,4 @@ self-play, discussed in detail in the project report.
   self-play with games against Minimax), or an AlphaZero-style MCTS +
   policy/value network approach.
 
-## Author
 
-[Your Name] — [Course Name / Code], [Semester/Year]
